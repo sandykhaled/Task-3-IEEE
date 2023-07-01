@@ -1,0 +1,39 @@
+table
+{
+    margin: auto;
+    width: 700px;
+}
+.title
+{
+    margin: 10px;
+    font-weight: bold;
+}
+th{
+    background-color: rgb(87, 86, 86);
+    color: white;
+    padding: 10px 0px;
+}
+td{
+    background-color: rgb(232, 227, 227);
+    text-align: center;
+   
+}
+
+.btn
+{
+    color: white;
+    padding: 5px 10px;
+    border: 0;
+ 
+}
+img{
+    border: 3px solid white;
+}
+.btn-1
+{
+    background-color: rgb(75, 75, 249);
+}
+.btn-2
+{
+    background-color: rgb(255, 75, 75);
+}
